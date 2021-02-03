@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "All"
+    url: "/all/"
   - title: "DailyLog"
     url: "/dailyLog/"
   - title: "Dev Collection"
