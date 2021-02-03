@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "DailyLog"
+    url: "/dailyLog/"
+  - title: "Dev Collection"
+    url: "/devCollection/"
+  - title: "Portfolio"
+    url: "/portfolio/"
