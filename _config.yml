@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "minshigee's dailyLog."
+title                    : "Minshigee's dailyLog."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MinShiGee"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "minshigee"
   avatar           : "https://avatars.githubusercontent.com/MinShiGee" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ",a junior developer!"
+  bio              : "나를 로깅(Logging)하는 공간!"
   location         : "Suwon, South Korea"
   email            : MinShiGee@gmail.com
   links:
