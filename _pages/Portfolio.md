@@ -12,8 +12,6 @@ author_profile: true
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106854793-44173f80-66ff-11eb-8309-e3b41ffccd64.png" alt="SkillSet" height="50" /> 
 </div>
 
-</br>
-
 <h3 class="archive__subtitle">{{ "About Me" | default: "My Activity" }}</h3>
 
 ## 2021
