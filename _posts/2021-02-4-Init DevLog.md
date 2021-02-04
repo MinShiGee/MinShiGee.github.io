@@ -1,5 +1,5 @@
 ---
-title: "Log02: 개발 시작"
+title: "Log02: Init DevLog"
 categories:
   - devLog
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Log01: 블로그 시작"
+title: "Log01: Init Blog"
 categories:
   - dailyLog
 tags:
