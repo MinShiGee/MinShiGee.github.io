@@ -7,22 +7,9 @@ author_profile: true
 
 <h3 class="archive__subtitle">{{ "My Skill Set" | default: "My Activity" }}</h3>
 
-<table><tr><td valign="top" width="50%">
 
-### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357495-b677d080-6349-11eb-8de0-2bb361575444.png" alt="Unity" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357547-12daf000-634a-11eb-8477-48f4d4c16744.png" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357548-13738680-634a-11eb-80b1-ad00b16bb8ea.png" alt=".NET" height="50" />  
-</div>
-
-</td><td valign="top" width="50%">
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357549-140c1d00-634a-11eb-8a20-ce53c38335d6.png" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357547-12daf000-634a-11eb-8477-48f4d4c16744.png" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106357548-13738680-634a-11eb-80b1-ad00b16bb8ea.png" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106854793-44173f80-66ff-11eb-8309-e3b41ffccd64.png" alt="SkillSet" height="50" /> 
 </div>
 
 </br>
