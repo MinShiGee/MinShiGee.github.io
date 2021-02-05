@@ -5,8 +5,9 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<h3 class="archive__subtitle">{{ "My Skill Set" | default: "My Activity" }}</h3>
+<br/>  
 
+<h3 class="archive__subtitle">{{ "My Skill Set" | default: "My Activity" }}</h3>
 
 <div align="center">  
 <img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106854793-44173f80-66ff-11eb-8309-e3b41ffccd64.png" alt="SkillSet" height="50" /> 
