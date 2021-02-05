@@ -15,13 +15,9 @@ author_profile: true
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].my_activity | default: "My Activity" }}</h3>
 
-<div>
-    <!-- Prepare a container for your calendar. -->
-    <div style="text-align: center;"><strong>My GitHub Contribution Graph</strong></div> 
-    
-    <div class="calendar">
-        <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" class="spinner">
-    </div>
+<div class="calendar">
+  <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" class="spinner">
+</div>
 
 <script>
     GitHubCalendar(".calendar", "MinShiGee", { responsive: true, tooltips: false, global_stats : false}).then(function() {
