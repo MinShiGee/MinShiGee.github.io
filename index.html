@@ -16,8 +16,8 @@ author_profile: true
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].my_activity | default: "My Activity" }}</h3>
 
 <div class="calendar-1">
-    <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" class="spinner">
     <p class="spinner-text monospace"><a href="https://github.com/MinShiGee">@MinShiGee</a>'s contributions.</p>
+    <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" class="spinner" align="center">
 </div>
 
 <script>
@@ -26,12 +26,6 @@ author_profile: true
     // or enable responsive functionality:
     GitHubCalendar(".calendar", "MinShiGee", { responsive: true });
 
-    // Use a proxy
-    GitHubCalendar(".calendar", "MinShiGee", {
-       proxy (username) {
-         return fetch(`https://your-proxy.com/github?user=${username}`)
-       }
-    }).then(r => r.text())
 </script>
 
 <br/> 
