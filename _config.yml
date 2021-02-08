@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "minshigee"
   avatar           : "https://avatars.githubusercontent.com/MinShiGee" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나를 로깅(Logging)하는 공간!"
+  bio              : "public Minsihgee minshigee {get; private set;}"
   location         : "Suwon, South Korea"
   email            : MinShiGee@gmail.com
   links:

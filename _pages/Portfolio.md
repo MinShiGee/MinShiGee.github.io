@@ -10,7 +10,7 @@ author_profile: true
 <h3 class="archive__subtitle">{{ "My Skill Set" | default: "My Activity" }}</h3>
 
 <div align="center">  
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/106854793-44173f80-66ff-11eb-8309-e3b41ffccd64.png" alt="SkillSet" height="50" /> 
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/46314169/107176004-94e5ab80-6a11-11eb-9a1a-223b57e11265.png" alt="SkillSet" height="50" /> 
 </div>
 
 <h3 class="archive__subtitle">{{ "About Me" | default: "My Activity" }}</h3>
@@ -22,6 +22,9 @@ author_profile: true
 -  현재 공부 중인 기술 스택입니다. => .Net Core {[Toys](https://github.com/MinShiGee/dotnet-Toys)} 😆
 
 ## 2020
+
+- Host p2p 방식을 이용한 Unity 3d 토이 프로젝트들 진행.
+	- Steam Sdk, Mirror Network Api
 
 - 아주대학교 프로그래밍 중앙동아리 DoiT!
 	- 회장
@@ -43,4 +46,15 @@ author_profile: true
 
 - 제32회 한국정보올림피아드 부산 - **은상**
 
-- More...
+<details>
+<summary>More...</summary>
+<div markdown="1">
+
+- 제35회 한국정보올림피아드 부산 - **장려**
+
+- 제24회 서울특별시 IT창의성대회 - **동상**
+
+- 
+
+</div>
+</details>
