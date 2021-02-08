@@ -22,13 +22,8 @@ author_profile: true
 -  현재 공부 중인 기술 스택입니다. => .Net Core {[Toys](https://github.com/MinShiGee/dotnet-Toys)} 😆
 
 ## 2020
-<details>
 
-- <summary>Host p2p 방식을 이용한 Unity 3d 토이 프로젝트들 진행.</summary>
-<div markdown="1">
-	- Steam Sdk, Mirror Network Api
-</div>
-</details>
+- Host p2p 방식을 이용한 Unity 3d 토이 프로젝트들 진행.
 
 - 아주대학교 프로그래밍 중앙동아리 DoiT!
 	- 회장
