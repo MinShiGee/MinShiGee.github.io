@@ -2,11 +2,6 @@
 title: "Log01: Init Blog"
 categories:
   - dailyLog
-tags:
-  - 개발자
-  - 주니어
-  - 블로그
-  - 코딩
 ---
 ## minshigee dailyLog를 시작하면서..
 
