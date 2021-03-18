@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "All"
-    url: "/all/"
+    url: "/categories/"
   - title: "DailyLog"
     url: "/dailyLog/"
   - title: "DevLog"
