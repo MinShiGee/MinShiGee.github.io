@@ -15,6 +15,7 @@ Framework : Unity
 Language : C#
 Library : Mirror Networking
 Deploy : WebGL, IIS
+Repository : https://github.com/MinShiGee/webgl-multiplayer-toy
 ```
 ![Readme Card](https://readme-editor.vercel.app/api/pin/?username=minshigee&repo=webgl-multiplayer-toy)
 
@@ -22,13 +23,13 @@ Deploy : WebGL, IIS
 
 ### 개발 과정
 <hr/>
-<작성 중>
+작성 중
 
 <br/>
 
 ### 트러블 슈팅
 <hr/>
-<작성 중>
+작성 중
 
 
 <br/>
@@ -41,4 +42,3 @@ Mirror Networking : https://mirror-networking.gitbook.io/docs/
 Unity WebGL : https://docs.unity3d.com/Manual/webgl-gettingstarted.html
 IIS Config : https://docs.unity3d.com/Manual/webgl-server-configuration-code-samples.html
 ``` 
-
