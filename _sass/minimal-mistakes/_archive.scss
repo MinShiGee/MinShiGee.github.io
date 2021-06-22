@@ -459,6 +459,8 @@
 /* Place inside a single layout */
 
 .layout--single {
+  text-decoration-line: none;
+  color: darkslateblue;
 	.feature__wrapper {
 		display: inline-block;
 	}
