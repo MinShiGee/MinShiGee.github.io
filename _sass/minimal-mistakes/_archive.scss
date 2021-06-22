@@ -49,6 +49,8 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
+  text-decoration-line: none;
+  color: darkslateblue;
 
   a[rel="permalink"]::before {
     content: '';
